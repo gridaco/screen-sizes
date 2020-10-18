@@ -30,3 +30,8 @@ device list &amp; screen size list updated on monthly basis. used for reflect.br
 - xl (extra-large)
 
 > learn more about web breakpoints on [material-ui.com](https://material-ui.com/customization/breakpoints/)
+
+
+## More
+
+screen size info as website is also provided on [screensiz.es](https://screensiz.es/) (not our website. not sharing the same dataset.)
