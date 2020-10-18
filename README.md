@@ -28,3 +28,5 @@ device list &amp; screen size list updated on monthly basis. used for reflect.br
 - md (medium)
 - lg (large)
 - xl (extra-large)
+
+> learn more about web breakpoints on [material-ui.com](https://material-ui.com/customization/breakpoints/)
