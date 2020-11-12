@@ -2,6 +2,10 @@
     "name": "screen-size-specs",
     "version": "0.0.1",
     "main": "dist/index.js",
+    "license": "MIT",
+    "private": false,
+    "repository": "https://github.com/bridgedxyz/screen-sizes.git",
+    "homepage": "https://reflect.bridged.xyz",
     "scripts": {
         "prepublish": "tsc"
     },
